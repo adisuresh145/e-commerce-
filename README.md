@@ -1,2 +1,2 @@
 Think Basket - EGrocer
-Online shopping similar to Flipkart but with only computer components.
+E-Groceries website which focuses on the UI and web-design.
